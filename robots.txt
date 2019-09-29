@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooyesiodie.alaazalzali.com/sitemap.xml
